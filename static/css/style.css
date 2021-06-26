@@ -1,9 +1,3 @@
 body{
     /* background-color: red; */
 }
-
-@media screen and (max-width: 480px) {
-  .table {
-    Width : 70%;
-  }
-}
